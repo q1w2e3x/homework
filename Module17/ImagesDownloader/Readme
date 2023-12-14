@@ -1,2 +1,2 @@
 Provide two command line arguments: URL and absolute path to local directory.
-Tries to save all images from <img> tags from HTML page, skips those images it can't download, if directory doesn't exists creates it.
+Tries to save all images from <img> tags from HTML page, skips those images it can't download, if directory doesn't exist creates it.
